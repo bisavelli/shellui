@@ -17,7 +17,7 @@ import logging
 import inspect
 import getpass
 #from . 
-import common as c
+from . import common as c
 
 
 class SHLog(object):
